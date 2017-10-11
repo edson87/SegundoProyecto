@@ -1,0 +1,12 @@
+.modal-title{
+    background-color: blue;
+}
+
+.modal-dialog{
+    background-color: red !important;
+    
+}
+
+.todo{
+    color:blue !important;
+}
